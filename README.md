@@ -1,3 +1,4 @@
+![Puja Rai GitHub Banner](IMG_2784.JPG)
 ## Hi there 👋
 
 <!--
