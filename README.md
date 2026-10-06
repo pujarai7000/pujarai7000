@@ -1,4 +1,5 @@
 ![Puja Rai GitHub Banner](IMG_2784.JPG)
+
 ^-^Hi there 👋
 * CS student @University of Texas at Arlington
 * Junior year 
