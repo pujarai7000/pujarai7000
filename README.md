@@ -1,5 +1,7 @@
 ![Puja Rai GitHub Banner](IMG_2784.JPG)
-## Hi there 👋
+^-^Hi there 👋
+* CS student @University of Texas at Arlington
+* Junior year 
 
 <!--
 **pujarai7000/pujarai7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
