@@ -2,7 +2,17 @@
 
 ^-^Hi there 👋
 * CS student @University of Texas at Arlington
-* Junior year 
+* Junior year
+
+ 📫 Contact & Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/puja-rai-35ab87248/)
+
+🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode,java,mysql" />
+</p>
 
 <!--
 **pujarai7000/pujarai7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
