@@ -1,4 +1,4 @@
-<img src="assets/anime_workspace_typing_loop.gif" width="700" alt="Cozy coding animation" />
+<img src="anime_workspace_typing_loop.gif" width="700" alt="Cozy coding animation" />
 
 ^-^Hi there 👋
 * CS student @University of Texas at Arlington
