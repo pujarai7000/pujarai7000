@@ -1,4 +1,4 @@
-![Puja Rai GitHub Banner](IMG_2784.JPG)
+<img src="assets/anime_workspace_typing_loop.gif" width="700" alt="Cozy coding animation" />
 
 ^-^Hi there 👋
 * CS student @University of Texas at Arlington
